@@ -11,6 +11,18 @@ span {
     font-size: 2em; 
 }
 
+/* #parent-div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-right: 10px;
+    float: left;
+  }
+  .child-div {
+    float: left;
+    margin-right: 5px;
+  } */
+
 /* .wrap {
     width: 100%;
 }
