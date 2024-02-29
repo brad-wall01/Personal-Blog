@@ -1,0 +1,31 @@
+/*Creates a circle behind the blog title*/
+span {
+    display: block;
+    height: 400px;
+    width: 400px;
+    line-height: 370px;
+    border-radius: 200px; 
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 2em; 
+}
+
+/* .wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 80%;
+    background-color: #ff0000;
+    height: 400px;
+}
+
+.mb-3 {
+float: right;
+    background-color: #00ff00;
+    height: 400px;
+    width: 20%;
+} */
+
